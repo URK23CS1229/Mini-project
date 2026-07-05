@@ -1,0 +1,4 @@
+timestamp,selected_region,score,carbon_intensity,energy_consumption,cost,temperature
+2016-12-31 23:00:00,Europe,108.3928,241.29,39.2633,0.175,-0.6279
+2017-01-01 01:00:00,Europe,108.3928,241.29,39.2633,0.175,-0.6279
+2017-01-01 04:00:00,Europe,108.3928,241.29,39.2633,0.175,-0.6279
